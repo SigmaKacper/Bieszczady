@@ -1,0 +1,10 @@
+body{
+    background-image: url('../images/bieszczady-jesienia.jpg');
+}
+h1{
+    margin: 20px 0 0 20px;
+}
+
+main{
+    padding-left: 50px;
+}
